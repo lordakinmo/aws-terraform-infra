@@ -108,6 +108,3 @@ Latest Tools: Latest versions of Terraform and Ubuntu are recommended
 Elastic IP: Ensures a persistent public IP address for access
 
 Private Key: Ensure your EC2 key pair is correctly set in key_name
-
-📫 Contact
-Feel free to connect with me on GitHub or [LinkedIn] (https://www.linkedin.com/in/stephen-abikoye-466845108/)  for DevOps or Cloud engineering opportunities.
